@@ -1,2 +1,0 @@
-# ML_Project
-Built a supervised machine learning model to predict diabetes based on patient health metrics. Performed data cleaning, feature selection, and model training using Scikit-learn. Evaluated performance using metrics like accuracy, confusion matrix, and classification report.
